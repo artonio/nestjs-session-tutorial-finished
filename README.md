@@ -2,7 +2,8 @@
 
 ## Description
 
-finished-source-code-for-nest-js-sessions-tutorial
+Source code for NestJS Basic Auth and Sessions Tutorial
+http://blog.exceptionfound.com/index.php/2018/06/07/nestjs-basic-auth-and-sessions/
 
 ## Installation
 
